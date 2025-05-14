@@ -1,6 +1,6 @@
 # Cours de solfège
 
-## 1.L’éditeur musescore 4.5
+## 1. L’éditeur musescore 4.5
 - Les différents onglets
 - Les menus
 - Copier, coller, supprimer, ,annuler 
@@ -18,7 +18,7 @@
 - Da capo 
 - Segno
 
-# 4. Figures de notes  
+## 4. Figures de notes  
 - Ronde 
 - Blanche 
 - Noire 
@@ -34,3 +34,8 @@
 - Demi-soupir
 - Quart de soupir
 – Tester avec le set de batterie
+
+## 6. Etude des noires et des blanches 
+
+- Ecrire la partition de la souris verte en noire et blanche . `On démarre avec la note sol`
+- Application à la guitare et au métronome.  `Voir fichier placement sur le manche`
