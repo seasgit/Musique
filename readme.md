@@ -1,24 +1,24 @@
-# Cours de solfège
+# Le 03/05/2025
 
-## 1. L’éditeur musescore 4.5
+## L’éditeur musescore 4.5
 - Les différents onglets
 - Les menus
 - Copier, coller, supprimer, ,annuler 
 - Les plugins et museSound
 
-## 2. Créer une partition 
+## Créer une partition 
 - Portée
 - L’armature ::clé, temps, tempo
 - Les mesures
 - Les 7 notes
 
-## 3. Les signes de mesure
+## Les signes de mesure
 - Jouer plusieurs fois  : double barre ,   séparateur doublé
 - La Coda
 - Da capo 
 - Segno
 
-## 4. Figures de notes  
+## Figures de notes  
 - Ronde 
 - Blanche 
 - Noire 
@@ -27,7 +27,7 @@
 – Tester avec le set de batterie
 
 
-## 5. Figures de silences  
+## Figures de silences  
 - Pause
 - Demi pause
 - Soupir
@@ -35,7 +35,11 @@
 - Quart de soupir
 – Tester avec le set de batterie
 
-## 6. Etude des noires et des blanches 
+# Le 16/05/2025
 
-- Ecrire la partition de la souris verte en noire et blanche . `On démarre avec la note sol`
-- Application à la guitare et au métronome.  `Voir fichier placement sur le manche`
+## Etude des noires et des blanches 
+
+- Ecrire la partition de la souris verte en noire et blanche . `On démarre avec la note : sol`
+- Ecrire la partition de Frère jacques . `On démarre avec la note : do grave`
+- Repérages sur le manche de la gamme de do `Voir le fichier joint`
+- Application à la guitare et au métronome des comptines, seul et à deux .  
