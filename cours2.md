@@ -1,9 +1,9 @@
 
 # Cours 02
 
-## Les signes de mesure
-- Jouer plusieurs fois  : double barre ,   séparateur doublé
-- La Coda, Da capo, Segno
+## Signes de reprise et renvoi
+![](./data/reprises.PNG)
+
 
 ## Etude des noires et des blanches 
 
@@ -12,3 +12,13 @@
 - Repérages sur le manche de la gamme de do `Voir le fichier joint`
 - Application à la guitare et au métronome des comptines, seul et à deux .  
 
+
+# Cours 03
+
+## Les liaisons et notes pointées
+- Lier deux noires  → blanche
+- Lier une noire et une croche
+- Noire pointée en mesure de trois temps
+- Noire pointée croche
+- Faire :  comptine alouette 
+- Lire : Matteo Carcassi : Siciliano
