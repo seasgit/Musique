@@ -13,12 +13,3 @@
 - Application à la guitare et au métronome des comptines, seul et à deux .  
 
 
-# Cours 03
-
-## Les liaisons et notes pointées
-- Lier deux noires  → blanche
-- Lier une noire et une croche
-- Noire pointée en mesure de trois temps
-- Noire pointée croche
-- Faire :  comptine alouette 
-- Lire : Matteo Carcassi : Siciliano
