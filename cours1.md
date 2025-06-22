@@ -2,7 +2,7 @@
 
 ## Créer une partition 
 - Portée
-- L’armature : clé, temps, tempo
+- L’armure : clé, temps, tempo
 - Les mesures
 - Les 7 notes
 ###
@@ -26,4 +26,14 @@
 ![](./data/reprises.PNG)
 
 
+## Progression chromatique
+la portée vue précédemment est dite diatonique 
+Voyons maintenant une progression par demi tons
+
+![](./data/chromatique.PNG)
+
+## Premiers repères sur la guitare 
+Tester avec le médiator , puis avec les doigts (index, majeur)
+###
+![](./data/position.png)
 
