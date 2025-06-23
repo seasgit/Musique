@@ -25,5 +25,8 @@ Tester avec une portée de batterie (snare)
 
 ![](./data/poition-gamme-do.png)
 
+### Exemples de ce travail
+![](./data/rythmique-gamme-do-guitare.png)
+
 2. Jouer la partition de la comptine "Alouette"
 ![](./data/alouette.PNG)
