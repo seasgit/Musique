@@ -27,6 +27,7 @@ Tester avec une portée de batterie (snare)
 
 ### Exemples 
 ![](./data/rythmique-gamme-do-guitare.png)
+le fichier `rythmique-sur-gamme-do-guitare.mcz` est dans le dossier lire
 
 ### Comptine avec notes pointées
 2. Jouer la partition de la comptine "Alouette"
