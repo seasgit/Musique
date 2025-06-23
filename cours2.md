@@ -17,13 +17,13 @@ Tester avec une portée de batterie (snare)
 - Extrait du Siciliano de Carcassi
 - Extrait de la musique du Château dans le ciel
 
-## Ecrire la partition 
-la comptine "Alouette"
-
 ## Jouer à la guitare
-Voir le diagramme ajouté au cours 1
 1. La gamme de do avec le métronome
 - à la noire
+- noire et blanche
 - à la croche
-- à la noire pointée croche
 
+![](./data/poition-gamme-do.png)
+
+2. Jouer la partition de la comptine "Alouette"
+![](./data/alouette.PNG)
