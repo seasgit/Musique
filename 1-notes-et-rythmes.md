@@ -1,4 +1,3 @@
-# Cours 01
 
 ## Créer une partition 
 - Portée
